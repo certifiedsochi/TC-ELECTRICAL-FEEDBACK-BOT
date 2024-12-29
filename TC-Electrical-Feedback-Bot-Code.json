@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fluted-airline-446116-j2",
+  "private_key_id": "eceea2d6096c900835cd80ae4612e51c8c9874e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5F35uy/Mc8EXj\nkxCGUPvLfGRcs3oglOdNe6g4y5OXNAON7PWP3zxchSF+lZBcXTTF/wmo/TNDqamz\nvYa2BLmCDIDyQe1TdIvwkMXhtyaP5v0wo8J0jX0o46G8zdTTPG6Dyv78i3eso6CJ\nJTNy+1xhwaUM0iY7khaiA9xffYwIBAlunhML4SX2rOWYm5NIRZLr0IUbkoYG4vJA\n+SdfQJn4S3VVx8D8FFjzOAyAnLikiav1l6npJS2CCTvuOBfsfHmD+Yi+hpfVH4ip\n2wX1Wj6vKg5Lot911toJCpxhGbh50TkEDowxf0zDqCbPz2tIZ6XRzoaA/cdtBkIW\n/YB1M5nZAgMBAAECggEABxPwCqhbqvwAri3L5FkBMfQ3KcjWtxt+l1rO0WIuigoM\nBz+8GbT3i9Gu+NZbE38gcyBYNBk/njslEUmidsAqQF/+R9VP0CDNL6U3nfSpIbhb\nbwJaH6cf9cHzp8LGvE+rqbhH5SwnpsdIjqoIpEFatGXJbBq2qdFBso8bfJ7STaWa\nG2uEG/rARlb/NPP8sKkC7EdkxiFrgBSv8sPgMaoip5B64gzrhXgOXenEMFSAhHq9\nlxE03h08Yi+7GS8SMI3t48kbs24RqDN1RCv3GPgisJ2RbrUzv3mvIwUcQg699zrW\n1DjKb2cS5PoaZ2Mrw4701geNJPa9StcoRcEPQx6WkQKBgQD1Btuusa8AGUlYuPuA\n6vS7iQ0HoOY2IcqLF+pUcBEn5DAu1OGuALCcSxwmw13BBM+h2l2cON9Ykq255m14\nXlL4XH4TJgCcsQEqHJXAGM3dLxy66qwg3I0/ZAjQGEbXv87XNLeDEjuZs7EahkDK\nd2yTPQGDdP1c5FO/UpMfdlWpEQKBgQDBYYC7dgH1VZqnwb1MJ0iVklvNgtNE0wix\nyR51AOZz28hi4qAEg3vCRy5JZujyfigs4ec6vf0Ta5XbfyypX9nBvfLzTMb9jWXQ\nS4oEh9ruNhuLjvfzBZK7WZUe3j5F6+qm215f1xuGNqRH1C3w1wlBswKl9h16JFcg\nV54g+wAkSQKBgHUVNdwgI5NUgevXWLadjxwdvRAsHlU3iGU2pE58znXVYADA0KYo\nxjuo2Gbda+tTtTON+LUxp+fXDxSJuz2NNPBgog3cVuaI3hmVVylXsOdEH+JhSKbb\nPNNRpbRqJU/q45eKJTaIe9pSNwqJpGQa9NLWj+aU/Ixqvmnpt0uNbBlBAoGBAJWA\nNa+3eagbeCb9RsVbEWhg8AwfegmZRP19SMiX25HydibMoX0b0U/PC9+/aZQfKBwa\nwVLOkpqy7/Xziamf6o83tF2YG7bl27J+08LQ7NaAiicIbnQ4+MlSZlCo7GfODWjV\n604Y1LScBcFqLeIlvIhIRmHbtco50gm08xD4O5HRAoGAFkRpNhi4dYvnJ3OGoF0p\nSixSgw55TDEF1Ml5LYQTwWSq5GVutcnj1ale+eIjteVoasqvgBmgwZRaH9F1uCvI\nkMlNBAnBc8KVKhj43ZgOx2uQOXKISssqF/qKh06obs/zobyeH1kBW1ZpmU9jzuhQ\narNr1EFArt9f7FaWlk5t8qU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tc-electrical-feedback-bot-ser@fluted-airline-446116-j2.iam.gserviceaccount.com",
+  "client_id": "113084888320282775555",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tc-electrical-feedback-bot-ser%40fluted-airline-446116-j2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
