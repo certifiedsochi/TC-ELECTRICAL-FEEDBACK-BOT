@@ -1,1 +1,1 @@
-web: TC-Electrical-Feedback-Bot-Code.py
+web: python TC-Electrical-Feedback-Bot-Code.py
